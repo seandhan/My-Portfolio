@@ -30,4 +30,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # R
 
 | Project Link | Area | Project Description | Libraries |    
-| [Employee Attrition Prediction](https://github.com/seandhan/Employee-Attrition-Prediction-R/blob/main/README.md) | EDA, Classification | Analysed employee survey data and develop an attrition prediction model | ggplot2, tidyverse |
+|---|---|---|---|
+| 👨‍💼👩‍💼👥[Employee Attrition Prediction](https://github.com/seandhan/Employee-Attrition-Prediction-R/blob/main/README.md) | EDA, Classification | Analysed employee survey data and developed an attrition prediction model | ggplot2, tidyverse |
