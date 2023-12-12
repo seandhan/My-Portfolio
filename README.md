@@ -24,3 +24,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🏃 [Cardio Equipment Sales](https://github.com/seandhan/Cardio-Equipment-Sales/blob/main/README.md) | EDA | Analysed CardioGood treadmill customer sales dataset to identify trends in customer demographics and relationships among income and usage | pandas, numpy, scipy, seaborn |
 | 🛡️☔📋🏥💲 [Insurance Business Statistics](https://github.com/seandhan/Insurance-Business-Statistics/blob/main/README.md) | EDA, Statistical Analysis | Analysed insurance data is to uncover relationships between policyholder demographics, risk factors, and incurred medical costs. | pandas, numpy, scipy, seaborn |
 | 💳👥 [Credit Card User Segmentation](https://github.com/seandhan/Credit-Card-User-Segmentation/blob/main/README.md) | Data Wrangling, Feature Engineering, EDA, Segmentation | Analysed and segmented credit card user data according to spending patterns and interactions with bank | pandas, numpy, scipy, seaborn, sklearn, yellowbrick |
+
+
+
+# R
+
+| Project Link | Area | Project Description | Libraries |    
+| [Employee Attrition Prediction](https://github.com/seandhan/Employee-Attrition-Prediction-R/blob/main/README.md) | EDA, Classification | Analysed employee survey data and develop an attrition prediction model | ggplot2, tidyverse |
